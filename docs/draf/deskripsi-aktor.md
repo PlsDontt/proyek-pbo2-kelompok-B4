@@ -1,4 +1,3 @@
-<!-- Draf T1. Sesuaikan dengan kondisi nyata kos yang disepakati kelompok. -->
 
 # Deskripsi Masalah
 
